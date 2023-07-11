@@ -1,0 +1,20 @@
+Done
+Create
+/employee
+
+Done
+Delete
+/employee/:employeeId
+
+Done
+get All    
+/employee?page=1&limit=2
+
+Done
+Update
+/employee/:employeeId
+
+
+Done
+get single
+/employee/:employeeId
